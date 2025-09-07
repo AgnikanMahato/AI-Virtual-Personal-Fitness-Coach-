@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💪 AI Virtual Personal Fitness Coach
 
 An intelligent fitness application that uses computer vision to detect workout poses, count repetitions, and provide real-time form feedback using MediaPipe and OpenCV.
@@ -236,4 +237,3 @@ If you encounter any issues or have questions:
 
 ---
 
-**Happy Training! 💪 Stay fit and healthy! 🏃‍♂️** 
