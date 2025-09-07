@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-09-07T00:08:13.277786",
+    "date": "2025-09-07",
+    "exercise_type": "pushup",
+    "reps": 0,
+    "duration_minutes": 0.83,
+    "form_score": 100,
+    "calories_estimate": 0
+  },
+  {
+    "timestamp": "2025-09-07T00:11:12.226177",
+    "date": "2025-09-07",
+    "exercise_type": "squat",
+    "reps": 0,
+    "duration_minutes": 0.65,
+    "form_score": 100,
+    "calories_estimate": 0
+  }
+]
